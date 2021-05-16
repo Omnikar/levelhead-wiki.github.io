@@ -19,7 +19,7 @@ Respawn at a BUDD-E. GR-18 receives a few frames of invulnerability. GR-18 can b
 
 ### Bump Jump _(AKA Bumper Jump)_
 From a solid surface, walk onto a bumper flush with the surface and press jump on contact with the bumper. GR-18 will be propelled **12** tiles upwards.
-While sprinting on a solid surface, jump as you hit a bumper that is flush with the surface. GR-18 will launch about **15** tiles upwards.
+While sprinting on a solid surface, jump as you hit a bumper that is flush with the surface. GR-18 will launch about **15** tiles upwards. This also works with punchers, which will launch GR-18 **16** tiles upward normally, and **18** tiles while sprinting.
 
 Tech demo level :[d0q9w69 | "Bumper Jump Lesson" by BscotchKarl @bscotch042](https://levelhead.io/+d0q9w69)
 Tech demo level :[cjx34x4 | "Bumper: Big Jump!" by SleepyDoof @zchv6z](https://levelhead.io/+cjx34x4)
